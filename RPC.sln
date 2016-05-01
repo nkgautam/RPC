@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RPC", "RPC\RPC.vbproj", "{75207F18-6D54-4B5A-B73F-DC681933B7EE}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "SmartDeviceCab1", "SmartDeviceCab1\SmartDeviceCab1.vddproj", "{108F98BD-C02E-4ECC-B33E-71FD24686F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75207F18-6D54-4B5A-B73F-DC681933B7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75207F18-6D54-4B5A-B73F-DC681933B7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75207F18-6D54-4B5A-B73F-DC681933B7EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{75207F18-6D54-4B5A-B73F-DC681933B7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75207F18-6D54-4B5A-B73F-DC681933B7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75207F18-6D54-4B5A-B73F-DC681933B7EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{108F98BD-C02E-4ECC-B33E-71FD24686F81}.Debug|Any CPU.ActiveCfg = Debug
+		{108F98BD-C02E-4ECC-B33E-71FD24686F81}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

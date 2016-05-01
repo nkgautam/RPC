@@ -1,0 +1,14 @@
+D:\VisualStudioProjects\RPC\RPC\bin\Debug\AppDatabase1.sdf
+D:\VisualStudioProjects\RPC\RPC\bin\Debug\RPC.exe
+D:\VisualStudioProjects\RPC\RPC\bin\Debug\RPC.pdb
+D:\VisualStudioProjects\RPC\RPC\bin\Debug\RPC.xml
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\ResolveAssemblyReference.cache
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\RPC.EditAdd.resources
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\RPC.Form1.resources
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\RPC.Resources.resources
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\RPC.vbproj.GenerateResource.Cache
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\RPC.exe
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\RPC.xml
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\RPC.pdb
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\RPC.Import.resources
+D:\VisualStudioProjects\RPC\RPC\obj\Debug\RPC.Password.resources
